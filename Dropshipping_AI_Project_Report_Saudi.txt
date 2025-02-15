@@ -1,0 +1,31 @@
+
+# AI-Powered Dropshipping Recommendation System - Saudi Arabia
+
+## 📌 Overview
+This project utilizes **Machine Learning** to analyze sales data from a **dropshipping business in Saudi Arabia**. 
+The system provides **insights into customer behavior** and generates **product recommendations** based on past purchase patterns.
+
+## 📊 Data Insights
+- The dataset includes **customer transactions**, **product details**, and **purchase history**.
+- Customers are from **various cities in Saudi Arabia**, including Riyadh, Jeddah, and Dammam.
+- The system uses **collaborative filtering techniques** to recommend products.
+
+## 🔧 Technologies Used
+- **Python** 🐍 (Pandas, NumPy, Scikit-Learn)
+- **Streamlit** (for Web Application)
+- **Collaborative Filtering Algorithm** (for recommendations)
+- **Data Visualization** (Matplotlib & Seaborn)
+
+## 🚀 How to Run the Project
+1. **Ensure required libraries are installed**:
+   ```bash
+   pip install streamlit pandas numpy scikit-learn openpyxl
+   ```
+2. **Run the Streamlit app**:
+   ```bash
+   streamlit run streamlit_recommendation_app.py
+   ```
+3. **Open the application in the browser**:
+   ```
+   http://localhost:8501/
+  
